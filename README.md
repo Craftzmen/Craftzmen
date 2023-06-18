@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript framework and libraries
 - 🌱 I’m currently learning react , nextjs , vercel
 - 💞️ I’m looking to collaborate on learning environments
-- 📫 Find me on Github @Craftzmen
+- 📫 Checkout my project Glide  => 'craftzmen.vercel.app' All-in-one content & learning environment
 
 <!---
 Craftzmen/Craftzmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
