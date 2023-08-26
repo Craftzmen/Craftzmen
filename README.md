@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Craftzmen
 - 👀 I’m interested in javascript framework and libraries
 - 🌱 I’m currently learning react , nextjs , vercel
-- 💞️ I’m looking to collaborate on learning environments
+- 💞️ I’m looking to collaborate on reactjs, nextjs apps
 - 📫 Checkout my project Glide  => 'craftzmen.vercel.app' All-in-one content & learning environment
 
 <!---
