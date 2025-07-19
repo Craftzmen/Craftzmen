@@ -102,13 +102,13 @@ graph TD
 <a href="https://craftzmen.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:abdullah.imran.code@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/craftzmen">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/yourhandle">
+<a href="https://x.com/@Craftzmen">
   <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
