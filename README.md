@@ -6,21 +6,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
-```javascript
-const craftzmen = {
-    pronouns: "He/Him",
-    location: "Building the future, one component at a time",
-    currentFocus: ["React", "Next.js", "React Native", "DevOps"],
-    interests: ["JavaScript Frameworks", "Modern Web Development", "Mobile Apps"],
-    motto: "Code with passion, build with purpose",
-    funFact: "I turn coffee into code ☕ → 💻"
-};
-```
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
